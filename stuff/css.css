@@ -1,3 +1,37 @@
-#buttons {
-  
+body {
+  background-image: url('http://www.simpsoncrazy.com/content/wallpapers/characters/Classic-Ralph_1024.jpg');
+  background-color: transparent;
+  background-size: 100% 300%;
+}
+
+button {
+    -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 3px;
+  font-family: Courier New;
+  color: #000000;
+  font-size: 40px;
+  width: 190px;
+  background: #ffffff;
+  padding: 30px 5px 30px 5px;
+  border: solid #000000 4px;
+  text-decoration: none;
+  margin: 10px;
   }
+  .one {
+    background-image: url("http://mcgivneycreative.com/wp-content/uploads/2013/08/ralph_header.jpg");
+    background-size: 190px 105px;
+  }
+  .two {
+    background-image: url("https://whativelearnedthisweek.files.wordpress.com/2014/03/ralph-wiggum-picking-nose.jpg");
+    background-size: cover;
+  }
+  .three {
+      background-image: url('http://static.tvtropes.org/pmwiki/pub/images/RalphWiggum01_3981.jpg');
+      background-size: contain;
+    }
+  .four {
+    background-image: url('http://static.comicvine.com/uploads/scale_small/0/229/100274-56268-ralph-wiggum.gif');
+    background-size: 190px 110px;
+  }
+  
